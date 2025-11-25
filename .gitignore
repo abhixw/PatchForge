@@ -1,0 +1,15 @@
+# Python-generated files
+insights/__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+core/.env
+# Virtual environments
+insights/.venv
+core/go.sum
+insights/.env
+insights/utils/.env
+frontend/node_modules
+frontend/.env
