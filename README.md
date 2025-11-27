@@ -82,7 +82,7 @@ PatchForge/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/sathwikshetty33/PatchForge.git
+git clone https://github.com/abhixw/PatchForge.git
 cd PatchForge
 ```
 
